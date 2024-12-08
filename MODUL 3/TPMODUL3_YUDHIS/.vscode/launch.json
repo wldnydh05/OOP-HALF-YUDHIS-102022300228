@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "--module-path \"C:/Users/Admin/OneDrive/Desktop/javafx-sdk-17.0.13/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
